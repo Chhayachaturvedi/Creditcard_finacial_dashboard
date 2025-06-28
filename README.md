@@ -84,5 +84,3 @@ Includes demographic and account-level customer details:
 
 ---
 
-## 📌 Author Notes
-This project is developed for learning and portfolio purposes. Ideal for showcasing Power BI visualization skills and understanding of customer segmentation in financial services.
